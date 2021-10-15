@@ -73,3 +73,9 @@ C:\Users\Tommy\OneDrive\Dokumenter\GitHub\OOPEksamen\EksamenOpgaveOOP\obj\Debug\
 C:\Users\Tommy\OneDrive\Dokumenter\GitHub\OOPEksamen\EksamenOpgaveOOP\obj\Debug\netcoreapp3.1\EksamenOpgaveOOP.pdb
 C:\Users\Tommy\OneDrive\Dokumenter\GitHub\OOPEksamen\EksamenOpgaveOOP\obj\Debug\netcoreapp3.1\EksamenOpgaveOOP.genruntimeconfig.cache
 C:\Users\Tommy\OneDrive\Dokumenter\GitHub\OOPEksamen\EksamenOpgaveOOP\obj\Debug\netcoreapp3.1\EksamenOpgaveOOP.csprojAssemblyReference.cache
+C:\Users\Tommy\OneDrive\Dokumenter\GitHub\OOP-Assignment-\OOPEksamen\EksamenOpgaveOOP\obj\Debug\netcoreapp3.1\EksamenOpgaveOOP.csprojAssemblyReference.cache
+C:\Users\Tommy\OneDrive\Dokumenter\GitHub\OOP-Assignment-\OOPEksamen\EksamenOpgaveOOP\obj\Debug\netcoreapp3.1\EksamenOpgaveOOP.AssemblyInfoInputs.cache
+C:\Users\Tommy\OneDrive\Dokumenter\GitHub\OOP-Assignment-\OOPEksamen\EksamenOpgaveOOP\obj\Debug\netcoreapp3.1\EksamenOpgaveOOP.AssemblyInfo.cs
+C:\Users\Tommy\OneDrive\Dokumenter\GitHub\OOP-Assignment-\OOPEksamen\EksamenOpgaveOOP\obj\Debug\netcoreapp3.1\EksamenOpgaveOOP.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\OneDrive\Dokumenter\GitHub\OOP-Assignment-\OOPEksamen\EksamenOpgaveOOP\obj\Debug\netcoreapp3.1\EksamenOpgaveOOP.dll
+C:\Users\Tommy\OneDrive\Dokumenter\GitHub\OOP-Assignment-\OOPEksamen\EksamenOpgaveOOP\obj\Debug\netcoreapp3.1\EksamenOpgaveOOP.pdb
